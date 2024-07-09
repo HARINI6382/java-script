@@ -1,0 +1,9 @@
+document.getElementById('rain').addEventListener('click',function(){
+    document.getElementById("image").src="https://cdn.pixabay.com/photo/2015/06/19/20/14/water-815271_1280.jpg" 
+});
+document.getElementById('flow').addEventListener('click',function(){
+    document.getElementById("image").src="https://media.istockphoto.com/id/695940326/photo/niagara-fast-shutter-speed-close-up.jpg?s=1024x1024&w=is&k=20&c=OjW9qeEfT4cfaJq0pUk9-R4c3mLLDWg8B_Tnjs0ymPQ="
+});
+document.getElementById("run").addEventListener("click",function(){
+    document.getElementById("image").src="https://media.istockphoto.com/id/163132087/photo/mountain-stream.jpg?s=1024x1024&w=is&k=20&c=tvq2903eSrPto4ko7CuJjzElAypJKSzhSyDtLfCwmRw="
+});
